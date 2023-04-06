@@ -1,4 +1,5 @@
 # 03-pokemon-game
+Proyecto elaborado con HTML, CSS, JAVASCRIPT, VUE.JS y WEB API
 
 ## Project setup
 ```
